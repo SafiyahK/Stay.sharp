@@ -1,0 +1,136 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  padding-top: 30px;
+}
+
+#info {
+  padding-left: 3%;
+  padding-top: 5%;
+}
+
+header {
+  background-color: #911bc0; /* White */
+  color: #9fddf0; /* Purple */
+  text-align: center;
+  padding: 20px;
+}
+
+nav {
+  background-color: #68cfca; /* Thistle */
+  color: #0e0606;
+  padding: 10px;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #4b0574;
+  font-weight: bold;
+  cursor: pointer; /* Add cursor pointer for better user experience */
+}
+
+main {
+  padding: 20px;
+  margin-bottom: 40px;
+}
+
+.page {
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.Index {
+  background-color: #d7f52f; /* Replace with the desired color for the header */
+}
+
+.Index1 {
+  background-color: #ff9100; /* Replace with the desired color for the footer */
+}
+
+.Index2 {
+  background-color: #f82f2f; /* Replace with the desired color for the footer */
+}
+
+.Index3 {
+  background-color: #f836f8; /* Replace with the desired color for the footer */
+}
+
+.Index4 {
+  background-color: #ae00ff; /* Replace with the desired color for the footer */
+}
+
+.Index5 {
+  background-color: #4164ff; /* Replace with the desired color for the footer */
+}
+
+.Index6 {
+  background-color: #47d310; /* Replace with the desired color for the footer */
+}
+
+.Index7 {
+  background-color: #98f700; /* Replace with the desired color for the footer */
+}
+
+.Index8 {
+  background-color: #f8b600; /* Replace with the desired color for the footer */
+}
+
+.Index9 {
+  background-color: #ff3939; /* Replace with the desired color for the footer */
+}
+
+.Index10 {
+  background-color: #f841da; /* Replace with the desired color for the footer */
+}
+
+.Index11 {
+  background-color: #ab00fa; /* Replace with the desired color for the footer */
+}
+
+.Index12 {
+  background-color: #006cfa; /* Replace with the desired color for the footer */
+}
+
+.Index13 {
+  background-color: #00fa2a; /* Replace with the desired color for the footer */
+}
+
+.Index14 {
+  background-color: #c4fa00; /* Replace with the desired color for the footer */
+}
+
+.Index15 {
+  background-color: #fa9600; /* Replace with the desired color for the footer */
+}
+
+.Index16 {
+  background-color: #fa0000; /* Replace with the desired color for the footer */
+}
+
+.Index30 {
+  background-color: #009df8; /* Replace with the desired color for the footer */
+}
+
+footer {
+  background-color: #23c4b728; /* Purple */
+  color: #560599;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
